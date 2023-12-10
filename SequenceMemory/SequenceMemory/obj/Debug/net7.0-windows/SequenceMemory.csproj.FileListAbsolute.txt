@@ -1,0 +1,17 @@
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\bin\Debug\net7.0-windows\SequenceMemory.exe
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\bin\Debug\net7.0-windows\SequenceMemory.deps.json
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\bin\Debug\net7.0-windows\SequenceMemory.runtimeconfig.json
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\bin\Debug\net7.0-windows\SequenceMemory.dll
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\bin\Debug\net7.0-windows\SequenceMemory.pdb
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.csproj.AssemblyReference.cache
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.Form1.resources
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.csproj.GenerateResource.cache
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.AssemblyInfoInputs.cache
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.AssemblyInfo.cs
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.csproj.CoreCompileInputs.cache
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.dll
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\refint\SequenceMemory.dll
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.pdb
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\SequenceMemory.genruntimeconfig.cache
+C:\Users\Sajni Bercel\source\repos\SequenceMemory\SequenceMemory\obj\Debug\net7.0-windows\ref\SequenceMemory.dll
